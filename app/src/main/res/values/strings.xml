@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyReviewDiary</string>
+    <string name="bakery_url">http://openapi.seoul.go.kr:8088/</string>
+    <string name="bakery_key">546446514d6a656e3130346569784876</string>
 </resources>
